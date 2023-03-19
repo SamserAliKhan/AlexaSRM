@@ -1,0 +1,85 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 20px;
+}
+.logo{
+    width: 80px;
+}
+.menu{
+    display: flex;
+}
+.menu > li{
+    list-style: none;
+    padding: 10px;
+} 
+.menu > li:hover{
+    font-weight: 600;
+}
+.main{
+padding: 100px 20px;
+}
+.Wlc{
+    font-size: 70px;
+    line-height: 0%;
+ 
+}
+.Ror{
+font-size: 100px;
+font-weight: bold;
+line-height: 0%;
+}
+.lin{
+    font-size: 20px;
+    line-height: 0%;
+   
+}
+.mainn{
+    display: flex;
+    padding-top: 20px;
+}
+.str{
+    padding: 10px 20px;
+    line-height: 10px;
+}
+.str:hover{
+background-color: black;
+color: white;
+}
+.str2{
+    padding: 10px 20px;
+    line-height: 10px;
+}
+.str2:hover{
+text-decoration: underline;
+}
+.SginUp{
+    width: 300px;
+        box-shadow: 0 0 3px 0 rgba(0,0, 0,0.3);
+        background: #fff;
+        padding: 20px;
+        margin: 8% auto 0;
+        text-align: center;
+}
+.SginUp h1{
+    color: rgb(224, 137, 31);
+    margin-bottom: 30px;
+}
+.InputBox{
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+    width:  100%;
+    border: 1px solid #999;
+    outline: none;
+}
+/*body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-image: url('B2.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}*/

@@ -1,0 +1,53 @@
+
+.Register{
+    width: 300px;
+        box-shadow: 10 10 3px 0 rgba(0,0, 0,0.3);
+        background: #fff;
+        padding: 20px;
+        margin: 8% auto 0;
+        margin-top: 250px;
+        text-align: center;
+}
+.Register h1{
+    color: rgb(6, 128, 63);
+    margin-bottom: 30px;
+}
+.InputBox{
+    border-radius: 20px;
+    padding: 10px; 
+    margin: 10px;
+    width:  100%;
+    border: 1px solid #999;
+    outline: none;
+}
+.btn{
+    background-color: aquamarine;
+}
+
+.logo{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 50%;
+    top: 0;
+    content: "";
+    margin-left: -10px;
+}
+.logotxt{
+    
+    line-height: 80px;
+    font-size: 35px;
+    color: skyblue;
+}
+.SginUp h1{
+    color: rgb(10, 179, 225);
+    margin-bottom: 30px;
+}
+.SginUp{
+    width: 300px;
+        box-shadow: 0 0 3px 0 rgba(0,0, 0,0.3);
+        background: #fff;
+        padding: 20px;
+        margin: 8% auto 0;
+        text-align: center;
+}
